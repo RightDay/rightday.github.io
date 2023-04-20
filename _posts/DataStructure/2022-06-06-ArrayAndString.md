@@ -10,8 +10,8 @@ tags:
 toc: true
 toc_sticky: true
 
-date: 2022-05-15
-last_modified_at: 2022-05-26
+date: 2022-06-06
+last_modified_at: 2022-06-06
 ---
 # 배열
 
