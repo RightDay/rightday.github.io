@@ -109,7 +109,7 @@ namespace MyLibraries
     {
         namespace FTP
         {
-            /* ... */
+            ...
         }
     }
 }
@@ -120,7 +120,7 @@ C++17부터는 다음과 같이 간결해졌다.
 ```cpp
 namespace MyLibraries::Netwrking::FTP
 {
-    /* ... */
+    ...
 }
 ```
 
