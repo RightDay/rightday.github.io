@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 
 date: 2023-05-16
-last_modified_at: 2023-05-16
+last_modified_at: 2023-06-02
 ---
 # 네임스페이스(Namespace)
 
@@ -109,7 +109,7 @@ namespace MyLibraries
     {
         namespace FTP
         {
-            ...
+            /* ... */
         }
     }
 }
@@ -120,7 +120,7 @@ C++17부터는 다음과 같이 간결해졌다.
 ```cpp
 namespace MyLibraries::Netwrking::FTP
 {
-    ...
+	/* ... */
 }
 ```
 
