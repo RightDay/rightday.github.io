@@ -10,8 +10,8 @@ tags:
 toc: true
 toc_sticky: true
 
-date: 2022-06-21
-last_modified_at: 2022-06-21
+date: 2023-06-21
+last_modified_at: 2023-06-21
 ---
 원형의 Progress Bar 혹은 차트에 활용
 
