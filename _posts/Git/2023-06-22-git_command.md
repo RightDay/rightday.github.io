@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 
 date: 2023-06-22
-last_modified_at: 2023-06-22
+last_modified_at: 2023-08-30
 ---
 # Git Command
 
@@ -37,5 +37,21 @@ git stash pop
 
 ``` bash
 git clean
+```
+
+
+
+## 수정한 파일 되돌리기
+
+```
+git checkout -- filename
+```
+
+
+
+## 모두 되돌리기
+
+```
+git restore .
 ```
 
